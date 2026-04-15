@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Abdul Rafay 👋
 
-<!--
-**Rafay-5566-hash/Rafay-5566-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎨 Graphic Designer & 📱 Flutter Developer
+Dedicated to crafting clean visual identities and building functional mobile applications. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I Do
+- **Graphic Design:** Branding, Logo Design, and Marketing Materials.
+- **App Development:** Building cross-platform mobile apps using **Flutter & Dart**.
+- **Web Basics:** UI/UX layouts using **HTML, CSS, and JavaScript**.
+
+---
+
+### ⚡ Technical Stack
+- **Design Tools:** Adobe Illustrator, Photoshop, Figma.
+- **Dev Tools:** VS Code, Git, Android Studio.
+- **Current Focus:** Mobile Billing & Shop Management Systems.
+
+---
+
+### 📫 Let's Connect
+*Working on some exciting projects to showcase here soon!*
